@@ -1,1 +1,1 @@
-This is test git repository
+This is test git repository master branch
